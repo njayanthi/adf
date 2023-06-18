@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfgithubintegration"
+		},
+		"ls_demo_source_accountKey": {
+			"value": ""
+		},
+		"ls_demo_source_properties_typeProperties_url": {
+			"value": "https://narayanadlsgen2.dfs.core.windows.net/"
 		}
 	}
 }
